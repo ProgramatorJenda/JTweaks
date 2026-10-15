@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: JTweaks
+## Notes: Simple wow tweaks
+## Author: Jæja
+## Category: UI
+## Version: 0.0.1
+## SavedVariables: TweaksDB
+
+Core.lua
+
+UI\Options.lua
+
+Modules\Chat.lua
+Modules\JunkHighlight.lua
+Modules\ZoneNodes.lua
